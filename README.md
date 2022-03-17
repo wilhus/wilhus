@@ -3,58 +3,36 @@
 > Hello there 👋 I'm William 
 </h1>
 
-<h2 
-    align='center'
-> About me
-</h2>
+## About me
 
-<p
-    align='center'
-> I'm a computer science and football enthusiast born in '99. I like to learn new things and explore what the internet can offer! I tend to work on projects that involve my interests in IoT, web development and machine learning. I'd like to improve a lot in those areas in the foreseeable future.
-</p>
+I'm a computer science and football enthusiast born in '99. I like to learn new things and explore what the internet can offer! I tend to work on projects that involve my interests in IoT, web development and machine learning. I'd like to improve a lot in those areas in the foreseeable future.
 
-<h2
-    align='center'
-> Workspace
+## Workspace
 
 ![Mac OS]  
 ![Raspberry Pi]  
 
-<h2
-    align='center'
-> Projects
-</h2>
+## Projects
 
-<p
-    align='center'
->Coming!
-</p>
+Coming!
 
-<h2
-    align='center'
-> Skills
+## Skills
 
 ![C]
 ![Java]
 ![Python]  
-![JavaScript] 
+![JavaScript]
 ![TypeScript]  
 ![React]
 ![MUI]
 ![Postgres]
 
 
-<h2
-    align='center'
-> Education
-</h2>
+## Education
 
-<p
-    align='center'
-> • 📖 <strong>BSc Computer Science</strong>
-<br>📆 2019 - 2022
-<br>📍 <strong>Chalmers University of Technology</strong> - Gothenburg, Sweden
-</p>
+- 📖 **BSc Computer Science**\
+📆 2019 - 2022\
+📍 **Chalmers University of Technology** - Gothenburg, Sweden
 
 [Postgres]:https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [MUI]:https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white
