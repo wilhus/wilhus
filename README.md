@@ -15,6 +15,11 @@ I'm a computer science and football enthusiast born in '99. I like to learn new 
 ## Projects
 Most projects are at an early stage and I try to commit time to those when I can.
 
+- **MicroGUI** [(link)](https://github.com/CarlClasson/MicroGUI)\
+Bachelor Thesis Project\
+An open source tool providing a simple editor for creating GUIs for embedded devices.\
+**Used**: React.js, JavaScript, MUI, Craft.js
+
 - **Task Logger** [(link)](https://github.com/wilhus/task-logger)\
 A web application for organizing tasks in a simple to-do list. Tasks are displayed as cards with a title and description, and logs the time of starting/ending the task.\
 **Used**: React.js, Next.js, TypeScript, SQLite, MUI
