@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm a computer science and football enthusiast born in '99. I like to learn new things and explore what the internet can offer! I tend to work on projects that involve my interests in IoT, web development and machine learning. I'd like to improve a lot in those areas in the foreseeable future.
+I'm a computer science and football enthusiast born in '99. I like to learn new things and explore what the internet can offer! I tend to work on projects that involve my interests in IoT, web development and machine learning. I'm working to improve a lot in those areas in the foreseeable future.
 
 ## Workspace
 
@@ -13,8 +13,19 @@ I'm a computer science and football enthusiast born in '99. I like to learn new 
 ![Raspberry Pi]  
 
 ## Projects
+Most projects are at an early stage and I try to commit time to those when I can.
 
-Coming!
+- **Task Logger** [(link)](https://github.com/wilhus/task-logger)\
+A web application for organizing tasks in a simple to-do list. Tasks are displayed as cards with a title and description, and logs the time of starting/ending the task.\
+**Used**: React.js, Next.js, TypeScript, SQLite, MUI
+
+- **Raspberry Pi IoT** [(link)](https://github.com/wilhus/rp-iot)\
+Various IoT projects using a Raspberry Pi and breadboard. Projects include a simple Python script for controlling LEDs, and a Node application running on WebSocket for controlling LEDs over the web.\
+**Used**: Node.js, JavaScript, HTML, Python
+
+- **FPL Predictor** [(link)](https://github.com/wilhus/fpl-predictor)\
+A Fantasy Premier League points predictor based on machine learning. Data provided by Understat and Premier League.\
+**Used**: Python
 
 ## Skills
 
